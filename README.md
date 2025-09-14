@@ -79,9 +79,10 @@ Once installed, you can use gitar from any directory.
 
 └── README.md
 
-## More links if you want to build Git using other programming language:
+# More links if you want to build Git using other programming language:
 
 [Build your own Git](https://github.com/codecrafters-io/build-your-own-x/blob/master/README.md#build-your-own-git)
+
 
 
 
