@@ -1,6 +1,12 @@
 ﻿# Gitar 🎸
 
-> A simple Git clone built with Node.js to understand how version control works under the hood.
+>I am building as I am learning on how to build A simple Git clone built with Node.js to understand how version control works under the hood.
+
+Refer to the links as a guide:-
+
+[ Built Git in JavaScript… and You Can Too! (Step-by-Step Tutorial)] (https://dev.to/alishirani/i-built-git-in-javascript-and-you-can-too-step-by-step-tutorial-28k5)
+
+[ Rebuilt Git in JavaScript (Node.js) ] (https://youtu.be/sUR4PtOd1iE)
 
 This project is a command-line tool that mimics some of the core functionalities of Git, such as initializing a repository, adding files to a staging area, and committing them.
 
@@ -8,7 +14,7 @@ This project is a command-line tool that mimics some of the core functionalities
 
 ## Features ✨
 
-* **Initialize Repository:** Create a new .glit repository with gitar init.
+* **Initialize Repository:** Create a new .gitar repository with gitar init.
 * **Stage Files:** Add one or more files to the staging area with gitar add <files...>.
 * **Commit Changes:** Currently under development.
 
@@ -56,4 +62,15 @@ Once installed, you can use gitar from any directory.
 ---
 
 ## Project Structure 📁
+
+├── commands/
+│   ├── add.js        # Logic for the 'add' command
+│   ├── commit.js     # Logic for the 'commit' command
+│   └── init.js       # Logic for the 'init' command
+├── .gitignore
+├── gitar.js          # Main CLI entry point
+├── package.json
+└── README.md
+
+
 
