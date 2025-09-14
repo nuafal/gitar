@@ -4,9 +4,9 @@
 
 Refer to the links as a guide:-
 
-[ Built Git in JavaScript… and You Can Too! (Step-by-Step Tutorial)] (https://dev.to/alishirani/i-built-git-in-javascript-and-you-can-too-step-by-step-tutorial-28k5)
+![ Built Git in JavaScript… and You Can Too! (Step-by-Step Tutorial)](https://dev.to/alishirani/i-built-git-in-javascript-and-you-can-too-step-by-step-tutorial-28k5)
 
-[ Rebuilt Git in JavaScript (Node.js) ] (https://youtu.be/sUR4PtOd1iE)
+![ Rebuilt Git in JavaScript (Node.js) ](https://youtu.be/sUR4PtOd1iE)
 
 This project is a command-line tool that mimics some of the core functionalities of Git, such as initializing a repository, adding files to a staging area, and committing them.
 
@@ -78,6 +78,7 @@ Once installed, you can use gitar from any directory.
 ├── package.json
 
 └── README.md
+
 
 
 
