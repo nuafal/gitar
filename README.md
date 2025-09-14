@@ -64,13 +64,21 @@ Once installed, you can use gitar from any directory.
 ## Project Structure 📁
 
 ├── commands/
+
 │   ├── add.js        # Logic for the 'add' command
+
 │   ├── commit.js     # Logic for the 'commit' command
+
 │   └── init.js       # Logic for the 'init' command
+
 ├── .gitignore
+
 ├── gitar.js          # Main CLI entry point
+
 ├── package.json
+
 └── README.md
+
 
 
 
