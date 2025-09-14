@@ -32,15 +32,15 @@ You must have Node.js and npm installed on your machine.
 ### Installation
 
 1.  Clone this repository:
-    `sh
+    `
     git clone [https://github.com/nuafal/gitar.git](https://github.com/nuafal/gitar.git)
     `
 2.  Install NPM packages:
-    `sh
+    `
     npm install
     `
 3.  Link the package to make the command available globally:
-    `sh
+    `
     npm link
     `
 
@@ -51,11 +51,11 @@ You must have Node.js and npm installed on your machine.
 Once installed, you can use gitar from any directory.
 
 * **Initialize a repository:**
-    `sh
+    `
     gitar init
     `
 * **Add files to the staging area:**
-    `sh
+    `
     gitar add file1.txt file2.js
     `
 
@@ -78,6 +78,7 @@ Once installed, you can use gitar from any directory.
 ├── package.json
 
 └── README.md
+
 
 
 
