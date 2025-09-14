@@ -81,8 +81,9 @@ Once installed, you can use gitar from any directory.
 
 ### More Git Guides and explanations:
 
-[Build your own Git](https://github.com/codecrafters-io/build-your-own-x/blob/master/README.md#build-your-own-git)
-[Learn Git Branching](https://learngitbranching.js.org/) #Git branches are visualised for better understanding of version control
+* [Build your own Git](https://github.com/codecrafters-io/build-your-own-x/blob/master/README.md#build-your-own-git)
+* [Learn Git Branching](https://learngitbranching.js.org/) #Git branches are visualised for better understanding of version control
+
 
 
 
